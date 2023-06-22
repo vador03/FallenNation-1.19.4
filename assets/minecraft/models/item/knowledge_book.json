@@ -1,0 +1,13 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/musket_charge_crafting"
+	},
+	"display": {
+		"gui": {
+			"translation": [8, -8, 0],
+			"scale": [2, 2, 1]
+		}
+	}
+}

@@ -1,0 +1,21 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:using_item",
+        "conditions": {
+          "player": [
+          ],
+          "item": {
+            "items": [
+              "minecraft:shield"
+            ],
+            "nbt": "{gth:{buckler:1b}}"
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "combat_additions:weapons/buckler/use"
+    }
+  }
+  

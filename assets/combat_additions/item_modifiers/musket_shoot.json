@@ -1,0 +1,7 @@
+[
+    {
+      "function": "minecraft:set_nbt",
+      "tag": "{display:{Lore:['{\"text\":\"Projectile: [Unloaded]\",\"color\":\"white\",\"italic\":false}']},CustomModelData:7771,gth:{musket:1b,item:4b}}"
+    }
+  ]
+  

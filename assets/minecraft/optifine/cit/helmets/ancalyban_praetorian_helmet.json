@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench",
+	  "parent": "item/base",
+	"textures": {
+		"0": "item/helmets/ancalyban_praetorian_helmet",
+		"particle": "item/helmets/ancalyban_praetorian_helmet"
+	}}

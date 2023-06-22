@@ -1,0 +1,16 @@
+{
+ "parent": "item/handheld",
+ "textures": {
+  "layer0": "item/stone_sword"
+ },
+
+ "overrides": [
+  { "predicate": {"custom_model_data": 7770}, "model": "item/greatsword/stone"},
+  { "predicate": {"custom_model_data": 7771}, "model": "item/warhammer/stone"},
+  { "predicate": {"custom_model_data": 7772}, "model": "item/mace/stone"},
+  { "predicate": {"custom_model_data": 7773}, "model": "item/sickle/stone"}
+
+ ]
+
+ 
+}

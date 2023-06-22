@@ -1,0 +1,3 @@
+execute as @e[type=arrow,sort=nearest,limit=1,tag=!gth.motion_added] at @s rotated as @p rotated ~ ~ run function combat_additions:weapons/musket/enchantments/multishot/first
+execute as @e[type=arrow,sort=nearest,limit=1,tag=!gth.motion_added] at @s rotated as @p rotated ~-3 ~ run function combat_additions:weapons/musket/enchantments/multishot/second
+execute as @e[type=arrow,sort=nearest,limit=1,tag=!gth.motion_added] at @s rotated as @p rotated ~3 ~ run function combat_additions:weapons/musket/enchantments/multishot/third

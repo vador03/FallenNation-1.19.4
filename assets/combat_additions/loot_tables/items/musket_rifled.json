@@ -1,0 +1,20 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:crossbow",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{display:{Name:'{\"text\":\"Musket\",\"italic\":false}',Lore:['{\"text\":\"Rifled\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Projectile: [Unloaded]\",\"color\":\"white\",\"italic\":false}']},HideFlags:32,CustomModelData:7773,gth:{musket:1b,rifled:1b,item:4b},ChargedProjectiles:[{id:\"minecraft:arrow\",Count:1b},{},{}],Charged:1b,Enchantments:[{}]}"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

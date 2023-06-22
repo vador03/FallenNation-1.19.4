@@ -1,0 +1,15 @@
+{
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:shot_crossbow"
+        }
+    },
+    "requirements": [
+        [
+            "trigger"
+        ]
+    ],
+    "rewards": {
+        "function": "combat_additions:advancements/shot_crossbow"
+    }
+}

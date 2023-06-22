@@ -1,0 +1,22 @@
+{
+	"texture": "textures/entity/chicken.png",
+	"textureSize": [64, 32],
+	"credit": "Made with Blockbench",
+	"submodels": [
+		{
+			"id": "e0_Box4",
+			"rotate": [0, 90, 0],
+			"boxes": [
+				{
+					"coordinates": [-6.6875, -5.65625, -6.15625, 5.875, 4.84375, 1.28125],
+					"uvNorth": [25, 19, 30, 23],
+					"uvEast": [24, 19, 25, 23],
+					"uvSouth": [31, 19, 36, 23],
+					"uvWest": [30, 19, 31, 23],
+					"uvUp": [30, 19, 25, 19],
+					"uvDown": [37, 17, 33, 19]
+				}
+			]
+		}
+	]
+}

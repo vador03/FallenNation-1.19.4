@@ -1,0 +1,4 @@
+execute if entity @s[predicate=combat_additions:in_air] run execute as @e[type=!#non_living,type=!#skeletons,type=!player,predicate=!combat_additions:strong_helmet,sort=nearest,limit=1,nbt={HurtTime:10s}] at @s run function combat_additions:weapons/mace/strong_effects
+execute if entity @s[predicate=combat_additions:in_air] run execute as @e[type=!#non_living,type=!#skeletons,type=!player,predicate=combat_additions:strong_helmet,sort=nearest,limit=1,nbt={HurtTime:10s}] at @s run function combat_additions:weapons/mace/effects
+execute as @e[type=#skeletons,sort=nearest,limit=1,nbt={HurtTime:10s}] at @s run function combat_additions:weapons/mace/skeleton_effects
+advancement revoke @s only combat_additions:mace/entity_hit

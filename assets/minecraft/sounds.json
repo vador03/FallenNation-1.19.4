@@ -1,0 +1,44 @@
+{
+    "item.armor.shattered":{
+        "subtitle": "Armor shattered",
+        "sounds":[
+            "armor_shattered"
+        ]
+    },
+    "item.musket.shoot":{
+        "subtitle": "Musket shot",
+        "sounds":[
+            "musket_shot"
+        ]
+    },
+    "item.bomb.fuse":{
+        "subtitle": "Bomb fuse",
+        "sounds":[
+            "bomb_fuse"
+        ]
+    },
+    "item.longbow.shoot":{
+        "subtitle": "Longbow shot",
+        "sounds":[
+            "longbow_shot"
+        ]
+    },
+    "item.buckler.parry":{
+        "subtitle": "Player parries attack",
+        "sounds":[
+            "buckler_parry"
+        ]
+    },
+    "item.partisan.thrust":{
+        "subtitle": "Partisan thrusted",
+        "sounds":[
+            "partisan_thrust"
+        ]
+    },
+    "entity.player.attack.skewer":{
+        "subtitle": "Stabbing attack",
+        "sounds":[
+            "player_skewer"
+        ]
+    }
+}

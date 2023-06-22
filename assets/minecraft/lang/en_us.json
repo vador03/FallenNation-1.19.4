@@ -1,0 +1,14 @@
+{
+  "language.code": "en_us",
+  "effect.minecraft.unluck": "Shattered",
+  "effect.minecraft.luck": "Disorientation",
+  "item.minecraft.knowledge_book": "Musket Charge",
+  "block.minecraft.structure_void": "Greatsword",
+  "block.minecraft.barrier": "Halberd",
+  "block.minecraft.jigsaw": "Warhammer",
+  "item.minecraft.command_block_minecart": "Mace",
+  "block.minecraft.command_block": "Bomb",
+  "block.minecraft.structure_block": "Sickle",
+  "block.minecraft.chain_command_block": "Longbow",
+  "block.minecraft.repeating_command_block": "Buckler"
+}

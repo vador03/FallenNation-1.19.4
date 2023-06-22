@@ -1,0 +1,22 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:player_hurt_entity",
+        "conditions": {
+          "damage": {
+            "source_entity": {
+              "equipment": {
+                "mainhand": {
+                  "nbt": "{gth:{warhammer:1b}}"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "combat_additions:advancements/warhammer/entity_hit"
+    }
+  }
+  

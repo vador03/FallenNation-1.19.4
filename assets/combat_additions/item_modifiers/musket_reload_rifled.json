@@ -1,0 +1,7 @@
+[
+    {
+      "function": "minecraft:set_nbt",
+      "tag": "{display:{Lore:['{\"text\":\"Rifled\",\"color\":\"gray\",\"italic\":false}','{\"text\":\"Projectile: [Loaded]\",\"color\":\"white\",\"italic\":false}']},CustomModelData:7772,gth:{musket:1b,rifled:1b,item:3b},ChargedProjectiles:[{id:\"minecraft:arrow\",Count:1b},{},{}],Charged:1b}"
+    }
+  ]
+  

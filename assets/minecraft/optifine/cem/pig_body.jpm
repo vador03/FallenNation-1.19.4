@@ -1,0 +1,63 @@
+{
+	"texture": "textures/entity/pig/pig",
+	"textureSize": [64, 32],
+	"credit": "Made with Blockbench",
+	"submodels": [
+		{
+			"id": "e0_PlaneZ2",
+			"rotate": [15, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-12.5, -7.70436, 20.22438, 9, 9, 0.001],
+					"uvNorth": [56, 7, 64, 16],
+					"uvSouth": [56, 7, 64, 16]
+				}
+			]
+		},
+		{
+			"id": "e1_Box1",
+			"rotate": [350, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-10.99, -14.35295, 0.70984, 5.98, 4.5, 12.5],
+					"uvNorth": [56, 20, 62, 25],
+					"uvEast": [36, 8, 48, 12],
+					"uvSouth": [57, 24, 62, 28],
+					"uvWest": [36, 8, 48, 12],
+					"uvUp": [61, 28, 57, 17],
+					"uvDown": [61, 17, 57, 29]
+				}
+			]
+		},
+		{
+			"id": "e2_Box1",
+			"rotate": [320, 0, 0],
+			"boxes": [
+				{
+					"coordinates": [-11, -12.77671, -6.56438, 6, 2.62, 3],
+					"uvNorth": [55, 25, 62, 29],
+					"uvEast": [52, 28, 55, 30],
+					"uvSouth": [51, 19, 58, 22],
+					"uvWest": [55, 28, 59, 30],
+					"uvUp": [55, 25, 49, 23],
+					"uvDown": [61, 22, 55, 26]
+				}
+			]
+		},
+		{
+			"id": "e3_Box5",
+			"rotate": [270, 180, 0],
+			"boxes": [
+				{
+					"coordinates": [3.5, 1.5, -12, 9, 16.5, 8.5],
+					"uvNorth": [55, 16, 64, 32],
+					"uvEast": [45, 16, 54, 32],
+					"uvSouth": [36, 16, 46, 32],
+					"uvWest": [28, 16, 37, 32],
+					"uvUp": [45, 8, 36, 16],
+					"uvDown": [55, 16, 46, 8]
+				}
+			]
+		}
+	]
+}

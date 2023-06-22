@@ -1,0 +1,3 @@
+execute if entity @s[predicate=!combat_additions:in_air,predicate=combat_additions:has_sweeping] run execute as @e[type=!#non_living,type=!player,sort=nearest,limit=1,nbt={HurtTime:10s}] at @s run execute as @e[type=!#non_living,type=!player,distance=0.001..3.25] at @s run function combat_additions:weapons/greatsword/strong_effects
+execute if entity @s[predicate=!combat_additions:in_air,predicate=!combat_additions:has_sweeping] run execute as @e[type=!#non_living,type=!player,sort=nearest,limit=1,nbt={HurtTime:10s}] at @s run execute as @e[type=!#non_living,type=!player,distance=0.001..3.25] at @s run function combat_additions:weapons/greatsword/effects
+advancement revoke @s only combat_additions:greatsword/entity_hit

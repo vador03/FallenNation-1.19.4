@@ -1,0 +1,20 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:using_item",
+      "conditions": {
+        "player": [
+        ],
+        "item": {
+          "items": [
+            "minecraft:bow"
+          ],
+          "nbt": "{gth:{longbow:1b}}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "combat_additions:weapons/longbow/pulling"
+  }
+}

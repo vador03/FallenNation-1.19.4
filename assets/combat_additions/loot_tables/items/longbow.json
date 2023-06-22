@@ -1,0 +1,20 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:bow",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{display:{Name:'{\"text\":\"Longbow\",\"italic\":false}'},CustomModelData:7770,gth:{longbow:1b,item:5b}}"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

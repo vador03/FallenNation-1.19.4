@@ -1,0 +1,2 @@
+execute as @e[type=#arrows,sort=nearest,limit=1,tag=!gth.longbow_arrow] at @s rotated as @p run function combat_additions:weapons/longbow/damage/normal
+playsound minecraft:item.longbow.shoot player @a[distance=..16] ~ ~ ~ 1 1 0.1

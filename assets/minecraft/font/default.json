@@ -1,0 +1,18 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:gui/scope.png",
+            "ascent": 189,
+            "height": 384,
+            "chars": ["\uE000"]
+        },
+        {
+            "type": "ttf",
+            "file": "minecraft:negative_spaces.ttf",
+            "shift": [1.0, 1.0],
+            "size": 10.0,
+            "oversample": 1.0
+        }
+    ]
+}

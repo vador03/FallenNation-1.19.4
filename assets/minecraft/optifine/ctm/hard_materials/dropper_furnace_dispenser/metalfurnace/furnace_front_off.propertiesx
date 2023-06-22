@@ -1,0 +1,5 @@
+matchTiles=minecraft:furnace_front
+
+method=random
+tiles=1
+biomes= minecraft:windswept_hills minecraft:snowy_slopes minecraft:ocean minecraft:beach minecraft:stony_shore minecraft:river minecraft:swamp minecraft:snowy_beach

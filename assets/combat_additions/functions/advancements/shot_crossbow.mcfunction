@@ -1,0 +1,2 @@
+advancement grant @s[nbt=!{SelectedItem:{tag:{gth:{musket:1b}}}},nbt=!{Inventory:[{Slot:-106b,tag:{gth:{musket:1b}}}]}] only minecraft:adventure/ol_betsy
+advancement revoke @s only combat_additions:shoot_crossbow

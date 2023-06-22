@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "Recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "combat_additions:warhammer/wooden"
+            }
+        }
+    },
+    "rewards": {
+        "function": "combat_additions:advancements/recipes/warhammer/wooden"
+    }
+}

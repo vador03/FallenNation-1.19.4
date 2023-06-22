@@ -1,0 +1,8 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "nbt": "{Inventory:[{id:\"minecraft:gunpowder\",tag:{gth:{musket_charge:1b}}}]}"
+    }
+  }
+  

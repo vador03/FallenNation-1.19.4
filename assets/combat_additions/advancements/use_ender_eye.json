@@ -1,0 +1,11 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:used_ender_eye"
+      }
+    },
+    "rewards": {
+      "function": "combat_additions:advancements/used_ender_eye"
+    }
+  }
+  

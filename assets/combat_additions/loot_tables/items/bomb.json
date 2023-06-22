@@ -1,0 +1,20 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:ender_eye",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{display:{Name:'{\"text\":\"Bomb\",\"italic\":false}'},CustomModelData:7770,gth:{bomb:1b}}"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

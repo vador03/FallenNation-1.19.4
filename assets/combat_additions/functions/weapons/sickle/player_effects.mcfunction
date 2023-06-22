@@ -1,0 +1,1 @@
+execute rotated as @p[distance=0.1..] run tp @s ^ ^ ^-0.75

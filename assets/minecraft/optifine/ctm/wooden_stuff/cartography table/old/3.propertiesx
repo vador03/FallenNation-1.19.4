@@ -1,0 +1,5 @@
+method=random
+tiles=8 13 18 23 28
+faces=top
+matchTiles=./3.png
+weights=10 2 2 10 10

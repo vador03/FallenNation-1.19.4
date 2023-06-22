@@ -1,0 +1,20 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:iron_sword",
+                    "functions": [
+                        {
+                            "function": "set_nbt",
+                            "tag": "{display:{Name:'{\"text\":\"Lance\",\"italic\":false}',Lore:['{\"text\":\"Unstoppable\",\"color\":\"gray\",\"italic\":false}','{\"text\":\" \"}','{\"text\":\"When on Horseback:\",\"color\":\"gray\",\"italic\":false}','{\"text\":\" 15-24 Attack Damage\",\"color\":\"dark_green\",\"italic\":false}','{\"text\":\" 1 Attack Speed\",\"color\":\"dark_green\",\"italic\":false}','{\"text\":\" \"}','{\"text\":\"Applies:\",\"color\":\"dark_purple\",\"italic\":false}','{\"text\":\"Disorientation II (0:03)\",\"color\":\"red\",\"italic\":false}']},HideFlags:2,CustomModelData:7774,gth:{lance:1b,unstoppable:1b,item:1b},AttributeModifiers:[{AttributeName:\"generic.attack_speed\",Name:\"generic.attack_speed\",Amount:-3,Operation:0,UUID:[I;-849334605,-1006680087,-1359296759,1946589452],Slot:\"mainhand\"},{AttributeName:\"generic.attack_damage\",Name:\"generic.attack_damage\",Amount:2,Operation:0,UUID:[I;1220226205,346571327,-1411394202,376106263],Slot:\"mainhand\"}],Enchantments:[{}]}"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

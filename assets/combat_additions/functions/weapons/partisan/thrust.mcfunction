@@ -1,0 +1,2 @@
+execute anchored eyes as @s[predicate=!combat_additions:has_ghost_thrust] run function combat_additions:weapons/partisan/start_raycast/normal
+execute anchored eyes as @s[predicate=combat_additions:has_ghost_thrust] run function combat_additions:weapons/partisan/start_raycast/ghost_thrust

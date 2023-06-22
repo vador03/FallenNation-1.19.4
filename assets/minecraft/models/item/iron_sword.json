@@ -1,0 +1,17 @@
+{
+ "parent": "item/handheld",
+ "textures": {
+  "layer0": "item/iron_sword"
+ },
+
+ "overrides": [
+  { "predicate": {"custom_model_data": 7770}, "model": "item/greatsword/iron"},
+  { "predicate": {"custom_model_data": 7771}, "model": "item/warhammer/iron"},
+  { "predicate": {"custom_model_data": 7772}, "model": "item/mace/iron"},
+  { "predicate": {"custom_model_data": 7773}, "model": "item/sickle/iron"},
+  { "predicate": {"custom_model_data": 7774}, "model": "item/lance"}
+
+ ]
+
+ 
+}

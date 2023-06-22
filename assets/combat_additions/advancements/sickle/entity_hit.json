@@ -1,0 +1,22 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:player_hurt_entity",
+        "conditions": {
+          "damage": {
+            "source_entity": {
+              "equipment": {
+                "mainhand": {
+                  "nbt": "{gth:{sickle:1b}}"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "combat_additions:advancements/sickle/entity_hit"
+    }
+  }
+  

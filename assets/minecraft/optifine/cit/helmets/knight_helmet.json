@@ -1,0 +1,7 @@
+{
+	"credit": "Made with Blockbench",
+	  "parent": "item/base",
+	"textures": {
+		"0": "item/helmets/knight_helmet",
+		"particle": "item/helmets/knight_helmet"
+	}}
