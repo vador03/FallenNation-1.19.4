@@ -11,4 +11,25 @@
   "block.minecraft.structure_block": "Sickle",
   "block.minecraft.chain_command_block": "Longbow",
   "block.minecraft.repeating_command_block": "Buckler"
+  "simpledrawer.name":"SimpleDrawer",
+  "simpledrawer.load":"[Loaded SimpleDrawer ",
+  "simpledrawer.drawer.empty":"Empty Drawer",
+  "simpledrawer.drawer.filled":"Filled Drawer",
+  "simpledrawer.hopper_upgrade":"Hopper Upgrade",
+  "simpledrawer.iron_upgrade":"Iron Upgrade",
+  "simpledrawer.gold_upgrade":"Gold Upgrade",
+  "simpledrawer.diamond_upgrade":"Diamond Upgrade",
+  "simpledrawer.star_upgrade":"Nether Star Upgrade",
+  "simpledrawer.netherite_upgrade":"Netherite Upgrade",
+  "simpledrawer.downgrade_wrench":"Downgrade Wrench",
+  "simpledrawer.text.of":" of §r",
+  "simpledrawer.text.named":"Named : §r",
+  "simpledrawer.text.cant_downgrade":"Can't downgrade filled drawer",
+  "simpledrawer.guide.message":"Check the wiki for details",
+  "simpledrawer.tellraw_prefix":"[SimpleDrawer] ",
+  "simpledrawer.load_error.smithed.custom_block":"No smithed.custom_block lib found",
+  "simpledrawer.load_error.smithed.crafter":"No smithed.crafter lib found",
+  "simpledrawer.place_error":"You can't place the drawer here",
+  "simpledrawer.input_error":"This item isn't allowed in the drawer"
+
 }

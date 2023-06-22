@@ -5,6 +5,7 @@
  },
 
  "overrides": [
+  { "predicate": {"custom_model_data": 1}, "model": "data/crystal_axe"}
   { "predicate": {"custom_model_data": 7770}, "model": "item/greatsword/iron"},
   { "predicate": {"custom_model_data": 7771}, "model": "item/warhammer/iron"},
   { "predicate": {"custom_model_data": 7772}, "model": "item/mace/iron"},
