@@ -1,0 +1,30 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/stone_pickaxe"
+    },
+    
+    "overrides": [
+    {"predicate": {"custom_model_data": 1000}, "model": "item/poga"},
+    {"predicate": {"custom_model_data": 1099}, "model": "item/pogb"},
+    {"predicate": {"custom_model_data": 1249}, "model": "item/pogc"},
+    {"predicate": {"custom_model_data": 1429}, "model": "item/pogd"},
+    {"predicate": {"custom_model_data": 1649}, "model": "item/poge"},
+    {"predicate": {"custom_model_data": 1949}, "model": "item/pogf"},
+    {"predicate": {"custom_model_data": 2399}, "model": "item/pogg"},
+    {"predicate": {"custom_model_data": 2999}, "model": "item/pogh"},
+    {"predicate": {"custom_model_data": 3999}, "model": "item/pogi"},
+    {"predicate": {"custom_model_data": 5499}, "model": "item/pogj"},
+    {"predicate": {"custom_model_data": 7499}, "model": "item/pogk"},
+    {"predicate": {"custom_model_data": 10499}, "model": "item/pogl"},
+    {"predicate": {"custom_model_data": 14499}, "model": "item/pogn"},
+    {"predicate": {"custom_model_data": 19499}, "model": "item/pogo"},
+    {"predicate": {"custom_model_data": 25999}, "model": "item/pogp"},
+    {"predicate": {"custom_model_data": 33999}, "model": "item/pogq"},
+    {"predicate": {"custom_model_data": 43999}, "model": "item/pogr"},
+    {"predicate": {"custom_model_data": 56499}, "model": "item/pogs"},
+    {"predicate": {"custom_model_data": 73999}, "model": "item/pogt"},
+    {"predicate": {"custom_model_data": 98999}, "model": "item/pogu"}
+
+    ]
+}
