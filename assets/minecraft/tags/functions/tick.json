@@ -1,5 +1,6 @@
 {
- "values": [
- "combat_additions:loop"
- ]
+	"values": [
+		"mmo:core",
+		"mmo:gamerules"
+	]
 }

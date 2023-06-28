@@ -1,5 +1,5 @@
 {
-    "values": [
-    "combat_additions:load"
-    ]
+	"values": [
+		"mmo:reload"
+	]
 }
