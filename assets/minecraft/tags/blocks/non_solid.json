@@ -1,0 +1,26 @@
+{
+    "replace": true,
+    "values": [
+      "minecraft:air",
+      "#minecraft:buttons",
+      "#minecraft:rails",
+      "#minecraft:small_flowers",
+      "#minecraft:tall_flowers",
+      "minecraft:flowering_azalea_leaves",
+      "minecraft:flowering_azalea",
+      "#minecraft:pressure_plates",
+      "#minecraft:crops",
+      "#minecraft:saplings",
+      "#minecraft:wool_carpets",
+      "#minecraft:cave_vines",
+      "#minecraft:coral_plants",
+      "#minecraft:signs",
+      "#minecraft:snow",
+      "#minecraft:wall_corals",
+      "#minecraft:wall_signs",
+      "minecraft:red_mushroom",
+      "minecraft:brown_mushroom",
+      "minecraft:crimson_fungus",
+      "minecraft:warped_fungus"
+    ]
+  }

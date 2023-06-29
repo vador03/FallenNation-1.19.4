@@ -1,0 +1,14 @@
+{
+ "parent": "item/handheld",
+ "textures": {
+  "layer0": "item/iron_axe"
+ },
+
+ "overrides": [
+  { "predicate": {"custom_model_data": 7770}, "model": "item/halberd/iron"}
+  {"predicate": {"custom_model_data": 1}, "model": "data/crystal_axe"}
+
+ ]
+
+ 
+}

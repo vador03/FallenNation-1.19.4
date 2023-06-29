@@ -1,0 +1,95 @@
+{
+    "display": {
+        "title": {
+            "text": "A Full Arsenal",
+            "color": "purple"
+        },
+        "description": {
+            "text": "Find all Bastion specific Netherite weapons",
+            "color": "purple"
+        },
+        "icon": {
+            "item": "minecraft:netherite_axe",
+            "nbt": "{CustomModelData:7770}"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "1": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:netherite_axe",
+                        "nbt": "{gth:{halberd:1b}}"
+                    }
+                ]
+            }
+        },
+        "2": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:netherite_sword",
+                        "nbt": "{gth:{greatsword:1b}}"
+                    }
+                ]
+            }
+        },
+        "3": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:netherite_sword",
+                        "nbt": "{gth:{mace:1b}}"
+                    }
+                ]
+            }
+        },
+        "4": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:netherite_sword",
+                        "nbt": "{gth:{warhammer:1b}}"
+                    }
+                ]
+            }
+        },
+        "5": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "item": "minecraft:netherite_sword",
+                        "nbt": "{gth:{sickle:1b}}"
+                    }
+                ]
+            }
+        }
+    },
+    "requirements": [
+        [
+            "1"
+        ],
+        [
+            "2"
+        ],
+        [
+            "3"
+        ],
+        [
+            "4"
+        ],
+        [
+            "5"
+        ]
+    ],
+    "parent": "minecraft:nether/loot_bastion"
+}
