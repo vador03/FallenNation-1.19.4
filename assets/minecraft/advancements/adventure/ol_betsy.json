@@ -1,0 +1,29 @@
+{
+    "parent": "minecraft:adventure/root",
+    "criteria": {
+      "shot_crossbow": {
+        "trigger": "minecraft:impossible"
+      }
+    },
+    "display": {
+      "announce_to_chat": true,
+      "description": {
+        "translate": "advancements.adventure.ol_betsy.description"
+      },
+      "frame": "task",
+      "hidden": false,
+      "icon": {
+        "item": "minecraft:crossbow",
+        "nbt": "{Damage:0}"
+      },
+      "show_toast": true,
+      "title": {
+        "translate": "advancements.adventure.ol_betsy.title"
+      }
+    },
+    "requirements": [
+      [
+        "shot_crossbow"
+      ]
+    ]
+  }

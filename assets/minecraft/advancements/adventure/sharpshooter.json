@@ -1,0 +1,52 @@
+{
+    "parent": "minecraft:adventure/sore_shoulders",
+    "criteria": {
+      "trigger": {
+        "conditions": {
+          "entity": [
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "distance": {
+                  "horizontal": {
+                    "min": 100
+                  }
+                }
+              }
+            }
+          ],
+          "killing_blow": {
+            "is_projectile": true
+          }
+        },
+        "trigger": "minecraft:player_killed_entity"
+      }
+    },
+    "display": {
+        "title": {
+            "text": "Sharpshooter",
+            "color": "purple"
+        },
+        "description": {
+            "text": "Kill something with a musket from at least 100 blocks away",
+            "color": "purple"
+        },
+        "icon": {
+            "item": "minecraft:crossbow",
+            "nbt": "{CustomModelData:7772}"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "requirements": [
+      [
+        "trigger"
+      ]
+    ],
+    "rewards": {
+      "experience": 50
+    }
+  }
