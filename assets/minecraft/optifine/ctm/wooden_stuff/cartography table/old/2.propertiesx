@@ -1,5 +1,0 @@
-method=random
-tiles=7 12 17 22 27
-faces=top
-matchTiles=./2.png
-weights=10 2 2 10 10

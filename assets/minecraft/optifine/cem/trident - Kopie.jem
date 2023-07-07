@@ -1,9 +1,0 @@
-{
-     "models": [ 
-     { "model": "trident_body.jpm",
-      "part": "body",
-      "translate": [ 0.0, 0.0, 0.0]
-
-     }
-  ]
-}

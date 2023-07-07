@@ -1,5 +1,0 @@
-tiles=70
-method=random
-biomes=minecraft:birch_forest minecraft:old_growth_birch_forest minecraft:snowy_slopes
-
-matchTiles=minecraft:sugar_cane
