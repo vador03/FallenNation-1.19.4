@@ -1,8 +1,0 @@
-{
-	"parent": "minecraft:block/pink_candle_four_candles_lit",
-	"textures": {
-		"particle": "block/arabic_candle",
-		"side": "block/arabic_candle",
-		"top": "block/arabic_candle_top"
-	}
-}

@@ -1,9 +1,0 @@
-{
-  "parent": "minecraft:block/template_two_candelabra",
-  "textures": {
-	"particle": "minecraft:block/gray_candelabra_holder",
-	"holder": "minecraft:block/gray_candelabra_holder",
-	"candle": "minecraft:block/gray_candelabra",
-	"flame": "minecraft:block/candle_lit"
-  }
-}

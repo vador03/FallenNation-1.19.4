@@ -1,9 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "minecraft:block/candle_four_candles_lit",
-	"textures": {
-		"particle": "block/candle",
-		"candle": "block/candle",
-		"holder": "block/candle_top"
-	}
-}

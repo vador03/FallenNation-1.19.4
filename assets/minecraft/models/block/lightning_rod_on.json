@@ -1,8 +1,0 @@
-{
-    "parent": "block/lightning_rod",
-    "ambientocclusion": false,
-    "textures": {
-        "0": "block/weather_vane_on",
-        "particle": "block/weather_vane_on"
-    }
-}
