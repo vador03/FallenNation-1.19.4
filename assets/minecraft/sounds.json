@@ -3,42 +3,2056 @@
         "subtitle": "Armor shattered",
         "sounds":[
             "armor_shattered"
-        ]
+        	]
     },
     "item.musket.shoot":{
         "subtitle": "Musket shot",
         "sounds":[
             "musket_shot"
-        ]
+        	]
     },
     "item.bomb.fuse":{
         "subtitle": "Bomb fuse",
         "sounds":[
             "bomb_fuse"
-        ]
+        	]
     },
     "item.longbow.shoot":{
         "subtitle": "Longbow shot",
         "sounds":[
             "longbow_shot"
-        ]
+        	]
     },
     "item.buckler.parry":{
         "subtitle": "Player parries attack",
         "sounds":[
             "buckler_parry"
-        ]
+        	]
     },
     "item.partisan.thrust":{
         "subtitle": "Partisan thrusted",
         "sounds":[
             "partisan_thrust"
-        ]
+       	  	]
     },
     "entity.player.attack.skewer":{
         "subtitle": "Stabbing attack",
         "sounds":[
             "player_skewer"
-        ]
-    }
+        	]
+    
+	},
+	"armor.light_walk": {
+		"category": "player",
+		"credits": [
+			"§aFoley",
+			"Samulis"
+		],
+		"sounds": [
+			"minecraft:footsteps/armor/light_1",
+			"minecraft:footsteps/armor/light_2",
+			"minecraft:footsteps/armor/light_3"
+		]
+	},
+	"armor.light_run": {
+		"category": "player",
+		"credits": [
+			"§aFoley",
+			"Samulis"
+		],
+		"sounds": [
+			"minecraft:footsteps/armor/light_1",
+			"minecraft:footsteps/armor/light_2",
+			"minecraft:footsteps/armor/light_3"
+		]
+	},
+	"armor.medium_walk": {
+		"category": "player",
+		"credits": [
+			"§aFoley",
+			"Samulis",
+			"",
+			"§achain drop",
+			"satanicupsman",
+			"Creative Commons 0"
+		],
+		"sounds": [
+			"minecraft:footsteps/armor/medium_walk1",
+			"minecraft:footsteps/armor/medium_walk2",
+			"minecraft:footsteps/armor/medium_walk3"
+		]
+	},
+	"armor.medium_run": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/armor/medium_walk1",
+			"minecraft:footsteps/armor/medium_walk2",
+			"minecraft:footsteps/armor/medium_walk3"
+		]
+	},
+	"armor.medium_foot": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/armor/medium_walk1",
+			"minecraft:footsteps/armor/medium_walk2",
+			"minecraft:footsteps/armor/medium_walk3"
+		]
+	},
+	"armor.crystal_walk": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/armor/crystal_walk1",
+			"minecraft:footsteps/armor/crystal_walk2",
+			"minecraft:footsteps/armor/crystal_walk3",
+			"minecraft:footsteps/armor/crystal_walk4",
+			"minecraft:footsteps/armor/crystal_walk5",
+			"minecraft:footsteps/armor/crystal_walk6"
+		]
+	},
+	"armor.crystal_run": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/armor/crystal_run1",
+			"minecraft:footsteps/armor/crystal_run2",
+			"minecraft:footsteps/armor/crystal_run3",
+			"minecraft:footsteps/armor/crystal_run4",
+			"minecraft:footsteps/armor/crystal_run5",
+			"minecraft:footsteps/armor/crystal_run6"
+		]
+	},
+	"armor.crystal_foot": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/armor/crystal_foot1",
+			"minecraft:footsteps/armor/crystal_foot2",
+			"minecraft:footsteps/armor/crystal_foot3",
+			"minecraft:footsteps/armor/crystal_foot4"
+		]
+	},
+	"armor.heavy_walk": {
+		"category": "player",
+		"credits": [
+			"§aClanking Armor",
+			"LordSane",
+			"Attribution"
+		],
+		"sounds": [
+			"minecraft:footsteps/armor/heavy_walk1",
+			"minecraft:footsteps/armor/heavy_walk2",
+			"minecraft:footsteps/armor/heavy_walk3",
+			"minecraft:footsteps/armor/heavy_walk4",
+			"minecraft:footsteps/armor/heavy_walk5",
+			"minecraft:footsteps/armor/heavy_walk6"
+		]
+	},
+	"armor.heavy_run": {
+		"category": "player",
+		"credits": [
+			"§aClanking Armor",
+			"LordSane",
+			"Attribution"
+		],
+		"sounds": [
+			"minecraft:footsteps/armor/heavy_run1",
+			"minecraft:footsteps/armor/heavy_run2",
+			"minecraft:footsteps/armor/heavy_run3",
+			"minecraft:footsteps/armor/heavy_run4",
+			"minecraft:footsteps/armor/heavy_run5",
+			"minecraft:footsteps/armor/heavy_run6",
+			"minecraft:footsteps/armor/heavy_run7",
+			"minecraft:footsteps/armor/heavy_run8",
+			"minecraft:footsteps/armor/heavy_run9"
+		]
+	},
+	"armor.heavy_foot": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/armor/heavy_foot1",
+			"minecraft:footsteps/armor/heavy_foot2",
+			"minecraft:footsteps/armor/heavy_foot3"
+		]
+	},
+	"armor.slimey_walk": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/armor/slime_walk1",
+			"minecraft:footsteps/armor/slime_walk2",
+			"minecraft:footsteps/armor/slime_walk3",
+			"minecraft:footsteps/armor/slime_walk4",
+			"minecraft:footsteps/armor/slime_walk5",
+			"minecraft:footsteps/armor/slime_walk6"
+		]
+	},
+	"armor.slimey_run": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/armor/slime_run1",
+			"minecraft:footsteps/armor/slime_run2",
+			"minecraft:footsteps/armor/slime_run3",
+			"minecraft:footsteps/armor/slime_run4",
+			"minecraft:footsteps/armor/slime_run5",
+			"minecraft:footsteps/armor/slime_run6"
+		]
+	},
+	"bluntwood.bluntwood_walk": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/bluntwood/bluntwood_walk1",
+			"minecraft:footsteps/bluntwood/bluntwood_walk10",
+			"minecraft:footsteps/bluntwood/bluntwood_walk11",
+			"minecraft:footsteps/bluntwood/bluntwood_walk2",
+			"minecraft:footsteps/bluntwood/bluntwood_walk3",
+			"minecraft:footsteps/bluntwood/bluntwood_walk4",
+			"minecraft:footsteps/bluntwood/bluntwood_walk5",
+			"minecraft:footsteps/bluntwood/bluntwood_walk6",
+			"minecraft:footsteps/bluntwood/bluntwood_walk7",
+			"minecraft:footsteps/bluntwood/bluntwood_walk8",
+			"minecraft:footsteps/bluntwood/bluntwood_walk9"
+		]
+	},
+	"bluntwood.bluntwood_wander": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/bluntwood/bluntwood_wander1",
+			"minecraft:footsteps/bluntwood/bluntwood_wander2",
+			"minecraft:footsteps/bluntwood/bluntwood_wander3",
+			"minecraft:footsteps/bluntwood/bluntwood_wander4",
+			"minecraft:footsteps/bluntwood/bluntwood_wander5"
+		]
+	},
+	"brush.brush_through": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/brush/brush_through1",
+			"minecraft:footsteps/brush/brush_through10",
+			"minecraft:footsteps/brush/brush_through11",
+			"minecraft:footsteps/brush/brush_through2",
+			"minecraft:footsteps/brush/brush_through3",
+			"minecraft:footsteps/brush/brush_through4",
+			"minecraft:footsteps/brush/brush_through5",
+			"minecraft:footsteps/brush/brush_through6",
+			"minecraft:footsteps/brush/brush_through7",
+			"minecraft:footsteps/brush/brush_through8",
+			"minecraft:footsteps/brush/brush_through9"
+		]
+	},
+	"concrete.concrete_run": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/concrete/concrete_run1",
+			"minecraft:footsteps/concrete/concrete_run10",
+			"minecraft:footsteps/concrete/concrete_run11",
+			"minecraft:footsteps/concrete/concrete_run2",
+			"minecraft:footsteps/concrete/concrete_run3",
+			"minecraft:footsteps/concrete/concrete_run4",
+			"minecraft:footsteps/concrete/concrete_run5",
+			"minecraft:footsteps/concrete/concrete_run6",
+			"minecraft:footsteps/concrete/concrete_run7",
+			"minecraft:footsteps/concrete/concrete_run8",
+			"minecraft:footsteps/concrete/concrete_run9"
+		]
+	},
+	"concrete.concrete_walk": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/concrete/concrete_walk1",
+			"minecraft:footsteps/concrete/concrete_walk10",
+			"minecraft:footsteps/concrete/concrete_walk11",
+			"minecraft:footsteps/concrete/concrete_walk2",
+			"minecraft:footsteps/concrete/concrete_walk3",
+			"minecraft:footsteps/concrete/concrete_walk4",
+			"minecraft:footsteps/concrete/concrete_walk5",
+			"minecraft:footsteps/concrete/concrete_walk6",
+			"minecraft:footsteps/concrete/concrete_walk7",
+			"minecraft:footsteps/concrete/concrete_walk8",
+			"minecraft:footsteps/concrete/concrete_walk9"
+		]
+	},
+	"concrete.concrete_wander": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/concrete/concrete_wander1",
+			"minecraft:footsteps/concrete/concrete_wander2",
+			"minecraft:footsteps/concrete/concrete_wander3",
+			"minecraft:footsteps/concrete/concrete_wander4",
+			"minecraft:footsteps/concrete/concrete_wander5"
+		]
+	},
+	"deckwood.deckwood_run": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/deckwood/deckwood_run1",
+			"minecraft:footsteps/deckwood/deckwood_run10",
+			"minecraft:footsteps/deckwood/deckwood_run11",
+			"minecraft:footsteps/deckwood/deckwood_run2",
+			"minecraft:footsteps/deckwood/deckwood_run3",
+			"minecraft:footsteps/deckwood/deckwood_run4",
+			"minecraft:footsteps/deckwood/deckwood_run5",
+			"minecraft:footsteps/deckwood/deckwood_run6",
+			"minecraft:footsteps/deckwood/deckwood_run7",
+			"minecraft:footsteps/deckwood/deckwood_run8",
+			"minecraft:footsteps/deckwood/deckwood_run9"
+		]
+	},
+	"dirt.dirt_land": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/dirt/dirt_land1",
+			"minecraft:footsteps/dirt/dirt_land2",
+			"minecraft:footsteps/dirt/dirt_land3",
+			"minecraft:footsteps/dirt/dirt_land4"
+		]
+	},
+	"dirt.dirt_run": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/dirt/dirt_run1",
+			"minecraft:footsteps/dirt/dirt_run10",
+			"minecraft:footsteps/dirt/dirt_run11",
+			"minecraft:footsteps/dirt/dirt_run2",
+			"minecraft:footsteps/dirt/dirt_run3",
+			"minecraft:footsteps/dirt/dirt_run4",
+			"minecraft:footsteps/dirt/dirt_run5",
+			"minecraft:footsteps/dirt/dirt_run6",
+			"minecraft:footsteps/dirt/dirt_run7",
+			"minecraft:footsteps/dirt/dirt_run8",
+			"minecraft:footsteps/dirt/dirt_run9"
+		]
+	},
+	"dirt.dirt_walk": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/dirt/dirt_walk1",
+			"minecraft:footsteps/dirt/dirt_walk10",
+			"minecraft:footsteps/dirt/dirt_walk11",
+			"minecraft:footsteps/dirt/dirt_walk2",
+			"minecraft:footsteps/dirt/dirt_walk3",
+			"minecraft:footsteps/dirt/dirt_walk4",
+			"minecraft:footsteps/dirt/dirt_walk5",
+			"minecraft:footsteps/dirt/dirt_walk6",
+			"minecraft:footsteps/dirt/dirt_walk7",
+			"minecraft:footsteps/dirt/dirt_walk8",
+			"minecraft:footsteps/dirt/dirt_walk9"
+		]
+	},
+	"dirt.dirt_wander": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/dirt/dirt_wander1",
+			"minecraft:footsteps/dirt/dirt_wander2",
+			"minecraft:footsteps/dirt/dirt_wander3",
+			"minecraft:footsteps/dirt/dirt_wander4",
+			"minecraft:footsteps/dirt/dirt_wander5"
+		]
+	},
+	"glass.glass_hard": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/glass/glass_hard1"
+		]
+	},
+	"glass.glass_hit": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/glass/glass_hit1",
+			"minecraft:footsteps/glass/glass_hit2"
+		]
+	},
+	"grass.grass_run": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/grass/grass_run1",
+			"minecraft:footsteps/grass/grass_run2",
+			"minecraft:footsteps/grass/grass_run3",
+			"minecraft:footsteps/grass/grass_run4"
+		]
+	},
+	"grass.grass_walk": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/grass/grass_walk1",
+			"minecraft:footsteps/grass/grass_walk10",
+			"minecraft:footsteps/grass/grass_walk2",
+			"minecraft:footsteps/grass/grass_walk3",
+			"minecraft:footsteps/grass/grass_walk4",
+			"minecraft:footsteps/grass/grass_walk5",
+			"minecraft:footsteps/grass/grass_walk6",
+			"minecraft:footsteps/grass/grass_walk7",
+			"minecraft:footsteps/grass/grass_walk8",
+			"minecraft:footsteps/grass/grass_walk9"
+		]
+	},
+	"grass.grass_wander": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/grass/grass_wander1",
+			"minecraft:footsteps/grass/grass_wander2",
+			"minecraft:footsteps/grass/grass_wander3",
+			"minecraft:footsteps/grass/grass_wander4",
+			"minecraft:footsteps/grass/grass_wander5",
+			"minecraft:footsteps/grass/grass_wander6"
+		]
+	},
+	"gravel.gravel_land": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/gravel/gravel_land1",
+			"minecraft:footsteps/gravel/gravel_land2"
+		]
+	},
+	"gravel.gravel_run": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/gravel/gravel_run1",
+			"minecraft:footsteps/gravel/gravel_run10",
+			"minecraft:footsteps/gravel/gravel_run11",
+			"minecraft:footsteps/gravel/gravel_run2",
+			"minecraft:footsteps/gravel/gravel_run3",
+			"minecraft:footsteps/gravel/gravel_run4",
+			"minecraft:footsteps/gravel/gravel_run5",
+			"minecraft:footsteps/gravel/gravel_run6",
+			"minecraft:footsteps/gravel/gravel_run7",
+			"minecraft:footsteps/gravel/gravel_run8",
+			"minecraft:footsteps/gravel/gravel_run9"
+		]
+	},
+	"gravel.gravel_walk": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/gravel/gravel_walk1",
+			"minecraft:footsteps/gravel/gravel_walk10",
+			"minecraft:footsteps/gravel/gravel_walk11",
+			"minecraft:footsteps/gravel/gravel_walk2",
+			"minecraft:footsteps/gravel/gravel_walk3",
+			"minecraft:footsteps/gravel/gravel_walk4",
+			"minecraft:footsteps/gravel/gravel_walk5",
+			"minecraft:footsteps/gravel/gravel_walk6",
+			"minecraft:footsteps/gravel/gravel_walk7",
+			"minecraft:footsteps/gravel/gravel_walk8",
+			"minecraft:footsteps/gravel/gravel_walk9"
+		]
+	},
+	"gravel.gravel_wander": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/gravel/gravel_wander1",
+			"minecraft:footsteps/gravel/gravel_wander2",
+			"minecraft:footsteps/gravel/gravel_wander3"
+		]
+	},
+	"leaves.leaves_through": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/leaves/leaves_through1",
+			"minecraft:footsteps/leaves/leaves_through2",
+			"minecraft:footsteps/leaves/leaves_through3",
+			"minecraft:footsteps/leaves/leaves_through4",
+			"minecraft:footsteps/leaves/leaves_through5",
+			"minecraft:footsteps/leaves/leaves_through6",
+			"minecraft:footsteps/leaves/leaves_through7"
+		]
+	},
+	"lino.lino_run": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/lino/lino_run1",
+			"minecraft:footsteps/lino/lino_run2",
+			"minecraft:footsteps/lino/lino_run3",
+			"minecraft:footsteps/lino/lino_run4",
+			"minecraft:footsteps/lino/lino_run5",
+			"minecraft:footsteps/lino/lino_run6"
+		]
+	},
+	"lino.lino_walk": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/lino/lino_walk1",
+			"minecraft:footsteps/lino/lino_walk2",
+			"minecraft:footsteps/lino/lino_walk3",
+			"minecraft:footsteps/lino/lino_walk4",
+			"minecraft:footsteps/lino/lino_walk5",
+			"minecraft:footsteps/lino/lino_walk6",
+			"minecraft:footsteps/lino/lino_walk7",
+			"minecraft:footsteps/lino/lino_walk8"
+		]
+	},
+	"marble.marble_run": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/marble/marble_run1",
+			"minecraft:footsteps/marble/marble_run10",
+			"minecraft:footsteps/marble/marble_run11",
+			"minecraft:footsteps/marble/marble_run2",
+			"minecraft:footsteps/marble/marble_run3",
+			"minecraft:footsteps/marble/marble_run4",
+			"minecraft:footsteps/marble/marble_run5",
+			"minecraft:footsteps/marble/marble_run6",
+			"minecraft:footsteps/marble/marble_run7",
+			"minecraft:footsteps/marble/marble_run8",
+			"minecraft:footsteps/marble/marble_run9"
+		]
+	},
+	"marble.marble_walk": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/marble/marble_walk1",
+			"minecraft:footsteps/marble/marble_walk10",
+			"minecraft:footsteps/marble/marble_walk11",
+			"minecraft:footsteps/marble/marble_walk2",
+			"minecraft:footsteps/marble/marble_walk3",
+			"minecraft:footsteps/marble/marble_walk4",
+			"minecraft:footsteps/marble/marble_walk5",
+			"minecraft:footsteps/marble/marble_walk6",
+			"minecraft:footsteps/marble/marble_walk7",
+			"minecraft:footsteps/marble/marble_walk8",
+			"minecraft:footsteps/marble/marble_walk9"
+		]
+	},
+	"marble.marble_wander": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/marble/marble_wander1",
+			"minecraft:footsteps/marble/marble_wander2",
+			"minecraft:footsteps/marble/marble_wander3",
+			"minecraft:footsteps/marble/marble_wander4",
+			"minecraft:footsteps/marble/marble_wander5",
+			"minecraft:footsteps/marble/marble_wander6",
+			"minecraft:footsteps/marble/marble_wander7"
+		]
+	},
+	"metalbar.metalbar_land": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/metalbar/metalbar_land1"
+		]
+	},
+	"metalbar.metalbar_run": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/metalbar/metalbar_run1",
+			"minecraft:footsteps/metalbar/metalbar_run10",
+			"minecraft:footsteps/metalbar/metalbar_run11",
+			"minecraft:footsteps/metalbar/metalbar_run2",
+			"minecraft:footsteps/metalbar/metalbar_run3",
+			"minecraft:footsteps/metalbar/metalbar_run4",
+			"minecraft:footsteps/metalbar/metalbar_run5",
+			"minecraft:footsteps/metalbar/metalbar_run6",
+			"minecraft:footsteps/metalbar/metalbar_run7",
+			"minecraft:footsteps/metalbar/metalbar_run8",
+			"minecraft:footsteps/metalbar/metalbar_run9"
+		]
+	},
+	"metalbar.metalbar_walk": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/metalbar/metalbar_walk1",
+			"minecraft:footsteps/metalbar/metalbar_walk10",
+			"minecraft:footsteps/metalbar/metalbar_walk11",
+			"minecraft:footsteps/metalbar/metalbar_walk2",
+			"minecraft:footsteps/metalbar/metalbar_walk3",
+			"minecraft:footsteps/metalbar/metalbar_walk4",
+			"minecraft:footsteps/metalbar/metalbar_walk5",
+			"minecraft:footsteps/metalbar/metalbar_walk6",
+			"minecraft:footsteps/metalbar/metalbar_walk7",
+			"minecraft:footsteps/metalbar/metalbar_walk8",
+			"minecraft:footsteps/metalbar/metalbar_walk9"
+		]
+	},
+	"metalbar.metalbar_wander": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/metalbar/metalbar_wander1",
+			"minecraft:footsteps/metalbar/metalbar_wander2",
+			"minecraft:footsteps/metalbar/metalbar_wander3",
+			"minecraft:footsteps/metalbar/metalbar_wander4",
+			"minecraft:footsteps/metalbar/metalbar_wander5",
+			"minecraft:footsteps/metalbar/metalbar_wander6"
+		]
+	},
+	"metalbox.metalbox_run": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/metalbox/metalbox_run1",
+			"minecraft:footsteps/metalbox/metalbox_run10",
+			"minecraft:footsteps/metalbox/metalbox_run2",
+			"minecraft:footsteps/metalbox/metalbox_run3",
+			"minecraft:footsteps/metalbox/metalbox_run4",
+			"minecraft:footsteps/metalbox/metalbox_run5",
+			"minecraft:footsteps/metalbox/metalbox_run6",
+			"minecraft:footsteps/metalbox/metalbox_run7",
+			"minecraft:footsteps/metalbox/metalbox_run8",
+			"minecraft:footsteps/metalbox/metalbox_run9"
+		]
+	},
+	"metalbox.metalbox_walk": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/metalbox/metalbox_walk1",
+			"minecraft:footsteps/metalbox/metalbox_walk2",
+			"minecraft:footsteps/metalbox/metalbox_walk3",
+			"minecraft:footsteps/metalbox/metalbox_walk4",
+			"minecraft:footsteps/metalbox/metalbox_walk5",
+			"minecraft:footsteps/metalbox/metalbox_walk6",
+			"minecraft:footsteps/metalbox/metalbox_walk7",
+			"minecraft:footsteps/metalbox/metalbox_walk8",
+			"minecraft:footsteps/metalbox/metalbox_walk9"
+		]
+	},
+	"metalbox.metalbox_wander": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/metalbox/metalbox_wander1",
+			"minecraft:footsteps/metalbox/metalbox_wander2",
+			"minecraft:footsteps/metalbox/metalbox_wander3",
+			"minecraft:footsteps/metalbox/metalbox_wander4"
+		]
+	},
+	"mud.mud_walk": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/mud/mud_walk1",
+			"minecraft:footsteps/mud/mud_walk2",
+			"minecraft:footsteps/mud/mud_walk3",
+			"minecraft:footsteps/mud/mud_walk4",
+			"minecraft:footsteps/mud/mud_walk5",
+			"minecraft:footsteps/mud/mud_walk6"
+		]
+	},
+	"mud.mud_wander": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/mud/mud_wander1",
+			"minecraft:footsteps/mud/mud_wander2",
+			"minecraft:footsteps/mud/mud_wander3",
+			"minecraft:footsteps/mud/mud_wander4"
+		]
+	},
+	"muffledice.muffledice_walk": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/muffledice/muffledice_walk1",
+			"minecraft:footsteps/muffledice/muffledice_walk10",
+			"minecraft:footsteps/muffledice/muffledice_walk2",
+			"minecraft:footsteps/muffledice/muffledice_walk3",
+			"minecraft:footsteps/muffledice/muffledice_walk4",
+			"minecraft:footsteps/muffledice/muffledice_walk5",
+			"minecraft:footsteps/muffledice/muffledice_walk6",
+			"minecraft:footsteps/muffledice/muffledice_walk7",
+			"minecraft:footsteps/muffledice/muffledice_walk8",
+			"minecraft:footsteps/muffledice/muffledice_walk9"
+		]
+	},
+	"quicksand.quicksand_walk": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/quicksand/quicksand_walk1",
+			"minecraft:footsteps/quicksand/quicksand_walk10",
+			"minecraft:footsteps/quicksand/quicksand_walk11",
+			"minecraft:footsteps/quicksand/quicksand_walk2",
+			"minecraft:footsteps/quicksand/quicksand_walk3",
+			"minecraft:footsteps/quicksand/quicksand_walk4",
+			"minecraft:footsteps/quicksand/quicksand_walk5",
+			"minecraft:footsteps/quicksand/quicksand_walk6",
+			"minecraft:footsteps/quicksand/quicksand_walk7",
+			"minecraft:footsteps/quicksand/quicksand_walk8",
+			"minecraft:footsteps/quicksand/quicksand_walk9"
+		]
+	},
+	"rug.rug_walk": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/rug/rug_walk1",
+			"minecraft:footsteps/rug/rug_walk10",
+			"minecraft:footsteps/rug/rug_walk11",
+			"minecraft:footsteps/rug/rug_walk2",
+			"minecraft:footsteps/rug/rug_walk3",
+			"minecraft:footsteps/rug/rug_walk4",
+			"minecraft:footsteps/rug/rug_walk5",
+			"minecraft:footsteps/rug/rug_walk6",
+			"minecraft:footsteps/rug/rug_walk7",
+			"minecraft:footsteps/rug/rug_walk8",
+			"minecraft:footsteps/rug/rug_walk9"
+		]
+	},
+	"sand.sand_run": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/sand/sand_run1",
+			"minecraft:footsteps/sand/sand_run10",
+			"minecraft:footsteps/sand/sand_run11",
+			"minecraft:footsteps/sand/sand_run2",
+			"minecraft:footsteps/sand/sand_run3",
+			"minecraft:footsteps/sand/sand_run4",
+			"minecraft:footsteps/sand/sand_run5",
+			"minecraft:footsteps/sand/sand_run6",
+			"minecraft:footsteps/sand/sand_run7",
+			"minecraft:footsteps/sand/sand_run8",
+			"minecraft:footsteps/sand/sand_run9"
+		]
+	},
+	"sand.sand_walk": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/sand/sand_walk1",
+			"minecraft:footsteps/sand/sand_walk10",
+			"minecraft:footsteps/sand/sand_walk11",
+			"minecraft:footsteps/sand/sand_walk2",
+			"minecraft:footsteps/sand/sand_walk3",
+			"minecraft:footsteps/sand/sand_walk4",
+			"minecraft:footsteps/sand/sand_walk5",
+			"minecraft:footsteps/sand/sand_walk6",
+			"minecraft:footsteps/sand/sand_walk7",
+			"minecraft:footsteps/sand/sand_walk8",
+			"minecraft:footsteps/sand/sand_walk9"
+		]
+	},
+	"snow.snow_run": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/snow/snow_run1",
+			"minecraft:footsteps/snow/snow_run10",
+			"minecraft:footsteps/snow/snow_run11",
+			"minecraft:footsteps/snow/snow_run2",
+			"minecraft:footsteps/snow/snow_run3",
+			"minecraft:footsteps/snow/snow_run4",
+			"minecraft:footsteps/snow/snow_run5",
+			"minecraft:footsteps/snow/snow_run6",
+			"minecraft:footsteps/snow/snow_run7",
+			"minecraft:footsteps/snow/snow_run8",
+			"minecraft:footsteps/snow/snow_run9"
+		]
+	},
+	"snow.snow_walk": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/snow/snow_walk1",
+			"minecraft:footsteps/snow/snow_walk10",
+			"minecraft:footsteps/snow/snow_walk11",
+			"minecraft:footsteps/snow/snow_walk2",
+			"minecraft:footsteps/snow/snow_walk3",
+			"minecraft:footsteps/snow/snow_walk4",
+			"minecraft:footsteps/snow/snow_walk5",
+			"minecraft:footsteps/snow/snow_walk6",
+			"minecraft:footsteps/snow/snow_walk7",
+			"minecraft:footsteps/snow/snow_walk8",
+			"minecraft:footsteps/snow/snow_walk9"
+		]
+	},
+	"snow.snow_wander": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/snow/snow_wander1",
+			"minecraft:footsteps/snow/snow_wander2",
+			"minecraft:footsteps/snow/snow_wander3",
+			"minecraft:footsteps/snow/snow_wander4",
+			"minecraft:footsteps/snow/snow_wander5"
+		]
+	},
+	"squeakywood.squeakywood_walk": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/squeakywood/squeakywood_walk1",
+			"minecraft:footsteps/squeakywood/squeakywood_walk10",
+			"minecraft:footsteps/squeakywood/squeakywood_walk11",
+			"minecraft:footsteps/squeakywood/squeakywood_walk2",
+			"minecraft:footsteps/squeakywood/squeakywood_walk3",
+			"minecraft:footsteps/squeakywood/squeakywood_walk4",
+			"minecraft:footsteps/squeakywood/squeakywood_walk5",
+			"minecraft:footsteps/squeakywood/squeakywood_walk6",
+			"minecraft:footsteps/squeakywood/squeakywood_walk7",
+			"minecraft:footsteps/squeakywood/squeakywood_walk8",
+			"minecraft:footsteps/squeakywood/squeakywood_walk9"
+		]
+	},
+	"squeakywood.squeakywood_wander": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/squeakywood/squeakywood_wander1",
+			"minecraft:footsteps/squeakywood/squeakywood_wander2",
+			"minecraft:footsteps/squeakywood/squeakywood_wander3",
+			"minecraft:footsteps/squeakywood/squeakywood_wander4",
+			"minecraft:footsteps/squeakywood/squeakywood_wander5",
+			"minecraft:footsteps/squeakywood/squeakywood_wander6",
+			"minecraft:footsteps/squeakywood/squeakywood_wander7"
+		]
+	},
+	"stone.stone_run": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/stone/stone_run1",
+			"minecraft:footsteps/stone/stone_run10",
+			"minecraft:footsteps/stone/stone_run11",
+			"minecraft:footsteps/stone/stone_run2",
+			"minecraft:footsteps/stone/stone_run3",
+			"minecraft:footsteps/stone/stone_run4",
+			"minecraft:footsteps/stone/stone_run5",
+			"minecraft:footsteps/stone/stone_run6",
+			"minecraft:footsteps/stone/stone_run7",
+			"minecraft:footsteps/stone/stone_run8",
+			"minecraft:footsteps/stone/stone_run9"
+		]
+	},
+	"stone.stone_walk": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/stone/stone_walk1",
+			"minecraft:footsteps/stone/stone_walk10",
+			"minecraft:footsteps/stone/stone_walk11",
+			"minecraft:footsteps/stone/stone_walk2",
+			"minecraft:footsteps/stone/stone_walk3",
+			"minecraft:footsteps/stone/stone_walk4",
+			"minecraft:footsteps/stone/stone_walk5",
+			"minecraft:footsteps/stone/stone_walk6",
+			"minecraft:footsteps/stone/stone_walk7",
+			"minecraft:footsteps/stone/stone_walk8",
+			"minecraft:footsteps/stone/stone_walk9"
+		]
+	},
+	"stone.stone_wander": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/stone/stone_wander1",
+			"minecraft:footsteps/stone/stone_wander2",
+			"minecraft:footsteps/stone/stone_wander3",
+			"minecraft:footsteps/stone/stone_wander4",
+			"minecraft:footsteps/stone/stone_wander5"
+		]
+	},
+	"water.water_through": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/water/water_through1",
+			"minecraft:footsteps/water/water_through10",
+			"minecraft:footsteps/water/water_through11",
+			"minecraft:footsteps/water/water_through2",
+			"minecraft:footsteps/water/water_through3",
+			"minecraft:footsteps/water/water_through4",
+			"minecraft:footsteps/water/water_through5",
+			"minecraft:footsteps/water/water_through6",
+			"minecraft:footsteps/water/water_through7",
+			"minecraft:footsteps/water/water_through8",
+			"minecraft:footsteps/water/water_through9"
+		]
+	},
+	"water.water_wander": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/water/water_wander1",
+			"minecraft:footsteps/water/water_wander2",
+			"minecraft:footsteps/water/water_wander3",
+			"minecraft:footsteps/water/water_wander4",
+			"minecraft:footsteps/water/water_wander5"
+		]
+	},
+	"water_stereofix.water_through": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/water_stereofix/water_through1",
+			"minecraft:footsteps/water_stereofix/water_through10",
+			"minecraft:footsteps/water_stereofix/water_through11",
+			"minecraft:footsteps/water_stereofix/water_through2",
+			"minecraft:footsteps/water_stereofix/water_through3",
+			"minecraft:footsteps/water_stereofix/water_through4",
+			"minecraft:footsteps/water_stereofix/water_through5",
+			"minecraft:footsteps/water_stereofix/water_through6",
+			"minecraft:footsteps/water_stereofix/water_through7",
+			"minecraft:footsteps/water_stereofix/water_through8",
+			"minecraft:footsteps/water_stereofix/water_through9"
+		]
+	},
+	"water_stereofix.water_wander": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/water_stereofix/water_wander1",
+			"minecraft:footsteps/water_stereofix/water_wander2",
+			"minecraft:footsteps/water_stereofix/water_wander3",
+			"minecraft:footsteps/water_stereofix/water_wander4",
+			"minecraft:footsteps/water_stereofix/water_wander5"
+		]
+	},
+	"weakice.weakice_walk": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/weakice/weakice_walk1",
+			"minecraft:footsteps/weakice/weakice_walk10",
+			"minecraft:footsteps/weakice/weakice_walk2",
+			"minecraft:footsteps/weakice/weakice_walk3",
+			"minecraft:footsteps/weakice/weakice_walk4",
+			"minecraft:footsteps/weakice/weakice_walk5",
+			"minecraft:footsteps/weakice/weakice_walk6",
+			"minecraft:footsteps/weakice/weakice_walk7",
+			"minecraft:footsteps/weakice/weakice_walk8",
+			"minecraft:footsteps/weakice/weakice_walk9"
+		]
+	},
+	"wood.wood_walk": {
+		"category": "player",
+		"sounds": [
+			"minecraft:footsteps/wood/wood_walk1",
+			"minecraft:footsteps/wood/wood_walk10",
+			"minecraft:footsteps/wood/wood_walk11",
+			"minecraft:footsteps/wood/wood_walk2",
+			"minecraft:footsteps/wood/wood_walk3",
+			"minecraft:footsteps/wood/wood_walk4",
+			"minecraft:footsteps/wood/wood_walk5",
+			"minecraft:footsteps/wood/wood_walk6",
+			"minecraft:footsteps/wood/wood_walk7",
+			"minecraft:footsteps/wood/wood_walk8",
+			"minecraft:footsteps/wood/wood_walk9"
+		]
+	},
+	"rain": {
+		"category": "weather",
+		"sounds": [
+			"minecraft:ambient/weather/rain_calm1",
+			"minecraft:ambient/weather/rain_calm2",
+			"minecraft:ambient/weather/rain_calm3",
+			"minecraft:ambient/weather/rain_calm4"
+		]
+	},
+	"thunder": {
+		"category": "weather",
+		"credits": [
+			"§aThunder 1",
+			"Yoyodaman234",
+			"Creative Commons 0",
+			"",
+			"§aDonner1.wav",
+			"swuing",
+			"Attribution",
+			"",
+			"§aThunder - 1",
+			"bone666138",
+			"Attribution",
+			"",
+			"§aThunder - 2",
+			"bone666138",
+			"Attribution",
+			"",
+			"§aDistant Thunder.wav",
+			"sarson",
+			"Creative Commons 0",
+			"",
+			"§aNM-Mejor-Lado-Thunder-01.wav",
+			"aaronstar",
+			"Creative Commons 0"
+		],
+		"sounds": [
+			{
+				"name": "minecraft:ambient/weather/thunder1",
+				"stream": true
+			},
+			{
+				"name": "minecraft:ambient/weather/thunder2",
+				"stream": true
+			},
+			{
+				"name": "minecraft:ambient/weather/thunder3",
+				"stream": true
+			},
+			{
+				"name": "minecraft:ambient/weather/thunder4",
+				"stream": true
+			},
+			{
+				"name": "minecraft:ambient/weather/thunder5",
+				"stream": true
+			},
+			{
+				"name": "minecraft:ambient/weather/thunder6",
+				"stream": true
+			}
+		]
+	},
+	"dust": {
+		"category": "weather",
+		"sounds": [
+			"minecraft:ambient/weather/dust"
+		]
+	},
+	"ice": {
+		"category": "ambient",
+		"sounds": [
+			{
+				"name": "minecraft:ambient/ice/crack1",
+				"volume": 0.5
+			},
+			{
+				"name": "minecraft:ambient/ice/crack2",
+				"volume": 0.5
+			},
+			{
+				"name": "minecraft:ambient/ice/crack3",
+				"volume": 0.5
+			}
+		]
+	},
+	"frog": {
+		"category": "ambient",
+		"sounds": [
+			{
+				"name": "minecraft:ambient/frog/croak1",
+				"volume": 0.4
+			},
+			{
+				"name": "minecraft:ambient/frog/croak2",
+				"volume": 0.4
+			},
+			{
+				"name": "minecraft:ambient/frog/croak3",
+				"volume": 0.4
+			}
+		]
+	},
+	"bullfrog": {
+		"category": "ambient",
+		"credits": [
+			"§aNight Crickets & Bullfrogs.wav",
+			"sunsinger",
+			"Creative Commons Attributions 3.0 Unported"
+		],
+		"sounds": [
+			{
+				"name": "minecraft:ambient/frog/bullfrog1"
+			},
+			{
+				"name": "minecraft:ambient/frog/bullfrog2"
+			},
+			{
+				"name": "minecraft:ambient/frog/bullfrog3"
+			},
+			{
+				"name": "minecraft:ambient/frog/bullfrog4"
+			}
+		]
+	},
+	"wind": {
+		"category": "ds_biome",
+		"credits": [
+			"§aWind blowing into some cactus spine, on the top of the mountain, in the desert of Atacama (Chile).",
+			"felix.blume",
+			"Creative Commons 0"
+		],
+		"sounds": [
+			{
+				"name": "minecraft:ambient/outside/wind",
+				"stream": true
+			}
+		]
+	},
+	"desert.wind": {
+		"category": "ds_biome",
+		"credits": [
+			"§adesertwind1FINAL.wav",
+			"nageor",
+			"Creative Commons 0"
+		],
+		"sounds": [
+			{
+				"name": "minecraft:ambient/outside/desert_wind"
+			}
+		]
+	},
+	"savanna.day": {
+		"category": "ds_biome",
+		"credits": [
+			"§aMerlothPark_morning_ambiance.wav",
+			"reinsamba",
+			"Attribution"
+		],
+		"sounds": [
+			{
+				"name": "minecraft:ambient/outside/savanna_day",
+				"stream": true
+			}
+		]
+	},
+	"savanna.night": {
+		"category": "ds_biome",
+		"credits": [
+			"§aMerlothPark_crickets2.WAV",
+			"reinsamba",
+			"Attribution"
+		],
+		"sounds": [
+			{
+				"name": "minecraft:ambient/outside/savanna_night",
+				"stream": true
+			}
+		]
+	},
+	"crickets": {
+		"category": "ds_biome",
+		"credits": [
+			"§aSoft, Chilled Crickets Field Recording",
+			"rayjensen",
+			"Creative Commons 0"
+		],
+		"sounds": [
+			{
+				"name": "minecraft:ambient/outside/crickets",
+				"stream": true
+			}
+		]
+	},
+	"deep_crickets": {
+		"category": "ds_biome",
+		"sounds": [
+			{
+				"name": "minecraft:ambient/outside/deep_crickets",
+				"stream": true
+			}
+		]
+	},
+	"plains": {
+		"category": "ds_biome",
+		"credits": [
+			"§aCalm Morning Outdoor Ambience",
+			"blouhond",
+			"Attribution"
+		],
+		"sounds": [
+			{
+				"name": "minecraft:ambient/outside/plains",
+				"stream": true
+			}
+		]
+	},
+	"forest": {
+		"category": "ds_biome",
+		"credits": [
+			"§a001_forrest.wav",
+			"joepsporck",
+			"Creative Commons 0"
+		],
+		"sounds": [
+			{
+				"name": "minecraft:ambient/outside/forest",
+				"stream": true
+			}
+		]
+	},
+	"deep_forest": {
+		"category": "ds_biome",
+		"sounds": [
+			{
+				"name": "minecraft:ambient/outside/deep_forest",
+				"stream": true
+			}
+		]
+	},
+	"beach": {
+		"category": "ds_biome",
+		"credits": [
+			"§aFiji Beach (Stereo)128kbps.mp3",
+			"c97059890",
+			"Creative Commons 0"
+		],
+		"sounds": [
+			{
+				"name": "minecraft:ambient/outside/beach",
+				"stream": true
+			}
+		]
+	},
+	"river": {
+		"category": "ds_biome",
+		"credits": [
+			"§aunderwater ambience.wav",
+			"AlienXXX",
+			"Attribution"
+		],
+		"sounds": [
+			{
+				"name": "minecraft:ambient/outside/river",
+				"stream": true
+			}
+		]
+	},
+	"bog": {
+		"category": "ds_biome",
+		"credits": [
+			"§arbh Mpls Bog birds.wav",
+			"RHumphries",
+			"Attribution"
+		],
+		"sounds": [
+			{
+				"name": "minecraft:ambient/outside/bog",
+				"stream": true
+			}
+		]
+	},
+	"jungle": {
+		"category": "ds_biome",
+		"sounds": [
+			{
+				"name": "minecraft:ambient/outside/jungle",
+				"volume": 0.08,
+				"pitch": 0.8,
+				"stream": true
+			}
+		]
+	},
+	"soulsand": {
+		"category": "ambient",
+		"sounds": [
+			{
+				"name": "minecraft:ambient/soulsand/soulsand1",
+				"volume": 0.2
+			},
+			{
+				"name": "minecraft:ambient/soulsand/soulsand2",
+				"volume": 0.2
+			},
+			{
+				"name": "minecraft:ambient/soulsand/soulsand3",
+				"volume": 0.2
+			}
+		]
+	},
+	"theend": {
+		"category": "ds_biome",
+		"sounds": [
+			{
+				"name": "minecraft:ambient/end/end",
+				"volume": 0.2,
+				"stream": true
+			}
+		]
+	},
+	"bird": {
+		"category": "ambient",
+		"sounds": [
+			"minecraft:ambient/birds/bird1",
+			"minecraft:ambient/birds/bird2",
+			"minecraft:ambient/birds/bird3",
+			"minecraft:ambient/birds/bird4",
+			"minecraft:ambient/birds/bird5",
+			"minecraft:ambient/birds/bird6",
+			"minecraft:ambient/birds/bird7",
+			"minecraft:ambient/birds/bird8",
+			"minecraft:ambient/birds/bird9",
+			"minecraft:ambient/birds/bird10"
+		]
+	},
+	"woodpecker": {
+		"category": "ambient",
+		"sounds": [
+			"minecraft:ambient/birds/woodpecker1",
+			"minecraft:ambient/birds/woodpecker2",
+			"minecraft:ambient/birds/woodpecker3",
+			"minecraft:ambient/birds/woodpecker4",
+			"minecraft:ambient/birds/woodpecker5"
+		]
+	},
+	"raptor": {
+		"category": "ambient",
+		"sounds": [
+			{
+				"name": "minecraft:ambient/birds/bald_eagle_chirp",
+				"weight": 2
+			},
+			{
+				"name": "minecraft:ambient/birds/red_tailed_hawk",
+				"weight": 1
+			},
+			{
+				"name": "minecraft:ambient/birds/red_shouldered_hawk",
+				"weight": 2
+			}
+		]
+	},
+	"crow": {
+		"category": "ambient",
+		"credits": [
+			"§aANML_M_Ext_Crow_Calls_Single1.wav",
+			"conleec",
+			"Creative Commons 0"
+		],
+		"sounds": [
+			"minecraft:ambient/birds/crow1",
+			"minecraft:ambient/birds/crow2",
+			"minecraft:ambient/birds/crow3",
+			"minecraft:ambient/birds/crow4",
+			"minecraft:ambient/birds/crow5",
+			"minecraft:ambient/birds/crow6",
+			"minecraft:ambient/birds/crow7",
+			"minecraft:ambient/birds/crow8",
+			"minecraft:ambient/birds/crow9",
+			"minecraft:ambient/birds/crow10"
+		]
+	},
+	"owl": {
+		"category": "ambient",
+		"sounds": [
+			{
+				"name": "minecraft:ambient/owl/owl1",
+				"volume": 0.3
+			},
+			{
+				"name": "minecraft:ambient/owl/owl2",
+				"volume": 0.3
+			},
+			{
+				"name": "minecraft:ambient/owl/owl3",
+				"volume": 0.3
+			}
+		]
+	},
+	"loon": {
+		"category": "ambient",
+		"sounds": [
+			{
+				"name": "minecraft:ambient/birds/loon1"
+			},
+			{
+				"name": "minecraft:ambient/birds/loon2"
+			}
+		]
+	},
+	"nightingale": {
+		"category": "ambient",
+		"sounds": [
+			{
+				"name": "minecraft:ambient/birds/nightingale1"
+			},
+			{
+				"name": "minecraft:ambient/birds/nightingale2"
+			},
+			{
+				"name": "minecraft:ambient/birds/nightingale3"
+			},
+			{
+				"name": "minecraft:ambient/birds/nightingale4"
+			}
+		]
+	},
+	"underground": {
+		"category": "ds_biome",
+		"sounds": [
+			{
+				"name": "minecraft:ambient/underground/ambient",
+				"volume": 0.3,
+				"stream": true
+			}
+		]
+	},
+	"rockfall": {
+		"category": "ambient",
+		"credits": [
+			"§aRocks falling over rocks, over a steep hill, like a cliff.flac",
+			"gfrog",
+			"Creative Commons 0",
+			"",
+			"§aRocks.wav",
+			"adamgryu",
+			"Creative Commons 0"
+		],
+		"sounds": [
+			"minecraft:ambient/underground/smallslide1",
+			"minecraft:ambient/underground/smallslide2",
+			"minecraft:ambient/underground/smallslide3"
+		]
+	},
+	"bigrockfall": {
+		"category": "ambient",
+		"credits": [
+			"§aRockfall in mine.wav",
+			"Benboncan",
+			"Attribution",
+			"",
+			"§aRocks.wav",
+			"adamgryu",
+			"Creative Commons 0"
+		],
+		"sounds": [
+			{
+				"name": "minecraft:ambient/underground/bigslide1",
+				"volume": 0.4
+			},
+			{
+				"name": "minecraft:ambient/underground/bigslide2",
+				"volume": 0.4
+			}
+		]
+	},
+	"monstergrowl": {
+		"category": "ambient",
+		"sounds": [
+			{
+				"name": "minecraft:ambient/underground/monster_growl1",
+				"volume": 0.3
+			}
+		]
+	},
+	"waterdrops": {
+		"category": "ambient",
+		"sounds": [
+			"minecraft:ambient/droplets/water1",
+			"minecraft:ambient/droplets/water2",
+			"minecraft:ambient/droplets/water3"
+		]
+	},
+	"waterdrips": {
+		"category": "ambient",
+		"credits": [
+			"§aDripping, Very Fast, A.wav",
+			"InspectorJ",
+			"Attribution"
+		],
+		"sounds": [
+			"minecraft:ambient/droplets/drop1",
+			"minecraft:ambient/droplets/drop2",
+			"minecraft:ambient/droplets/drop3",
+			"minecraft:ambient/droplets/drop3"
+		]
+	},
+	"seagulls": {
+		"category": "ambient",
+		"sounds": [
+			{
+				"name": "minecraft:ambient/seagulls/seagulls1",
+				"volume": 0.3
+			},
+			{
+				"name": "minecraft:ambient/seagulls/seagulls2",
+				"volume": 0.3
+			}
+		]
+	},
+	"coyote": {
+		"category": "ambient",
+		"credits": [
+			"§acoyote barks and howls",
+			"dkaufman",
+			"Creative Commons 0"
+		],
+		"sounds": [
+			"minecraft:ambient/coyote/coyote1",
+			"minecraft:ambient/coyote/coyote2",
+			"minecraft:ambient/coyote/coyote3",
+			"minecraft:ambient/coyote/coyote4",
+			"minecraft:ambient/coyote/coyote5",
+			"minecraft:ambient/coyote/coyote6"
+		]
+	},
+	"wolf": {
+		"category": "ambient",
+		"sounds": [
+			{
+				"name": "minecraft:ambient/wolf/wolf1",
+				"volume": 0.3
+			},
+			{
+				"name": "minecraft:ambient/wolf/wolf2",
+				"volume": 0.3
+			},
+			{
+				"name": "minecraft:ambient/wolf/wolf3",
+				"volume": 0.3
+			},
+			{
+				"name": "minecraft:ambient/wolf/wolf4",
+				"volume": 0.3
+			}
+		]
+	},
+	"underdeepocean": {
+		"category": "ds_biome",
+		"credits": [
+			"§aunderwater ambience.wav",
+			"AlienXXX",
+			"Attribution"
+		],
+		"sounds": [
+			{
+				"name": "minecraft:ambient/underwater/deepocean",
+				"stream": true
+			}
+		]
+	},
+	"underocean": {
+		"category": "ds_biome",
+		"credits": [
+			"§aunderwater ambience.wav",
+			"AlienXXX",
+			"Attribution"
+		],
+		"sounds": [
+			{
+				"name": "minecraft:ambient/underwater/ocean",
+				"stream": true
+			}
+		]
+	},
+	"underriver": {
+		"category": "ds_biome",
+		"sounds": [
+			{
+				"name": "minecraft:ambient/underwater/river",
+				"stream": true
+			}
+		]
+	},
+	"underwater": {
+		"category": "ds_biome",
+		"credits": [
+			"§aUnderwaterDrowning01.wav",
+			"Abolla",
+			"Creative Commons 0"
+		],
+		"sounds": [
+			{
+				"name": "minecraft:ambient/underwater/water",
+				"stream": true
+			}
+		]
+	},
+	"whale": {
+		"category": "ambient",
+		"sounds": [
+			{
+				"name": "minecraft:ambient/whale/whale1",
+				"volume": 0.3
+			},
+			{
+				"name": "minecraft:ambient/whale/whale2",
+				"volume": 0.3
+			},
+			{
+				"name": "minecraft:ambient/whale/whale3",
+				"volume": 0.3
+			},
+			{
+				"name": "minecraft:ambient/whale/whale4",
+				"volume": 0.3
+			},
+			{
+				"name": "minecraft:ambient/whale/whale5",
+				"volume": 0.3
+			}
+		]
+	},
+	"heartbeat": {
+		"category": "player",
+		"sounds": [
+			"minecraft:ambient/steve/heartbeat"
+		]
+	},
+	"tummy": {
+		"category": "player",
+		"sounds": [
+			"minecraft:ambient/steve/tummy1",
+			"minecraft:ambient/steve/tummy2",
+			"minecraft:ambient/steve/tummy3"
+		]
+	},
+	"floorsqueak": {
+		"category": "ambient",
+		"sounds": [
+			{
+				"name": "minecraft:ambient/miscblocks/floorsqueak1",
+				"volume": 0.2
+			},
+			{
+				"name": "minecraft:ambient/miscblocks/floorsqueak2",
+				"volume": 0.2
+			},
+			{
+				"name": "minecraft:ambient/miscblocks/floorsqueak3",
+				"volume": 0.2
+			}
+		]
+	},
+	"breathing": {
+		"category": "ambient",
+		"sounds": [
+			{
+				"name": "minecraft:ambient/miscblocks/breathing1",
+				"volume": 0.5
+			},
+			{
+				"name": "minecraft:ambient/miscblocks/breathing2",
+				"volume": 0.5
+			}
+		]
+	},
+	"jump": {
+		"category": "player",
+		"sounds": [
+			{
+				"name": "minecraft:ambient/steve/jump",
+				"volume": 0.8
+			}
+		]
+	},
+	"bees": {
+		"category": "ambient",
+		"sounds": [
+			{
+				"name": "minecraft:ambient/insects/bee1",
+				"volume": 0.05
+			}
+		]
+	},
+	"insectcrawl": {
+		"category": "ambient",
+		"sounds": [
+			"minecraft:ambient/insects/crawl1",
+			"minecraft:ambient/insects/crawl2",
+			"minecraft:ambient/insects/crawl3"
+		]
+	},
+	"insectbuzz": {
+		"category": "ambient",
+		"sounds": [
+			{
+				"name": "minecraft:ambient/insects/gnatt1",
+				"volume": 0.2
+			},
+			{
+				"name": "minecraft:ambient/insects/grasshopper1",
+				"volume": 0.2
+			}
+		]
+	},
+	"gnatt": {
+		"category": "ambient",
+		"sounds": [
+			"minecraft:ambient/insects/gnatt1"
+		]
+	},
+	"grasshopper": {
+		"category": "ambient",
+		"sounds": [
+			"minecraft:ambient/insects/grasshopper1"
+		]
+	},
+	"crocodile": {
+		"category": "ambient",
+		"sounds": [
+			{
+				"name": "minecraft:ambient/crock/crocodile1",
+				"volume": 0.7
+			},
+			{
+				"name": "minecraft:ambient/crock/crocodile2",
+				"volume": 0.7
+			},
+			{
+				"name": "minecraft:ambient/crock/crocodile3",
+				"volume": 0.7
+			},
+			{
+				"name": "minecraft:ambient/crock/crocodile4",
+				"volume": 0.7
+			}
+		]
+	},
+	"rattlesnake": {
+		"category": "ambient",
+		"sounds": [
+			"minecraft:ambient/snake/rattlesnake1",
+			"minecraft:ambient/snake/rattlesnake2",
+			"minecraft:ambient/snake/rattlesnake3"
+		]
+	},
+	"elephant": {
+		"category": "ambient",
+		"sounds": [
+			{
+				"name": "minecraft:ambient/elephant/elephant1",
+				"volume": 0.7
+			},
+			{
+				"name": "minecraft:ambient/elephant/elephant2",
+				"volume": 0.7
+			},
+			{
+				"name": "minecraft:ambient/elephant/elephant3",
+				"volume": 0.7
+			}
+		]
+	},
+	"hiss": {
+		"category": "ambient",
+		"sounds": [
+			"minecraft:ambient/miscblocks/hiss1",
+			"minecraft:ambient/miscblocks/hiss2",
+			"minecraft:ambient/miscblocks/hiss3",
+			"minecraft:ambient/miscblocks/hiss4"
+		]
+	},
+	"newsprint": {
+		"category": "ambient",
+		"sounds": [
+			"minecraft:ambient/book/newsprint1",
+			"minecraft:ambient/book/newsprint2"
+		]
+	},
+	"pageflip": {
+		"category": "ambient",
+		"sounds": [
+			"minecraft:ambient/book/pageflip1",
+			"minecraft:ambient/book/pageflip2",
+			"minecraft:ambient/book/pageflip3"
+		]
+	},
+	"pageflipheavy": {
+		"category": "ambient",
+		"sounds": [
+			"minecraft:ambient/book/pageflipheavy1",
+			"minecraft:ambient/book/pageflipheavy2",
+			"minecraft:ambient/book/pageflipheavy3"
+		]
+	},
+	"bookshelf": {
+		"category": "ambient",
+		"sounds": [
+			{
+				"name": "minecraft:ambient/book/newsprint1",
+				"volume": 0.175
+			},
+			{
+				"name": "minecraft:ambient/book/newsprint2",
+				"volume": 0.175
+			},
+			{
+				"name": "minecraft:ambient/book/pageflip1",
+				"volume": 0.175
+			},
+			{
+				"name": "minecraft:ambient/book/pageflip2",
+				"volume": 0.175
+			},
+			{
+				"name": "minecraft:ambient/book/pageflip3",
+				"volume": 0.175
+			},
+			{
+				"name": "minecraft:ambient/book/pageflipheavy1",
+				"volume": 0.175
+			},
+			{
+				"name": "minecraft:ambient/book/pageflipheavy2",
+				"volume": 0.175
+			},
+			{
+				"name": "minecraft:ambient/book/pageflipheavy3",
+				"volume": 0.175
+			}
+		]
+	},
+	"crafting": {
+		"category": "ambient",
+		"sounds": [
+			"minecraft:ambient/steve/crafthammer1",
+			"minecraft:ambient/steve/crafthammer2",
+			"minecraft:ambient/steve/craftsaw1",
+			"minecraft:ambient/steve/craftsaw2",
+			"minecraft:ambient/steve/craftsand1",
+			"minecraft:ambient/steve/craftsand2"
+		]
+	},
+	"bison": {
+		"category": "ambient",
+		"sounds": [
+			{
+				"name": "minecraft:ambient/bison/bison1",
+				"volume": 0.5
+			},
+			{
+				"name": "minecraft:ambient/bison/bison2",
+				"volume": 0.5
+			},
+			{
+				"name": "minecraft:ambient/bison/bison3",
+				"volume": 0.5
+			},
+			{
+				"name": "minecraft:ambient/bison/bison4",
+				"volume": 0.5
+			}
+		]
+	},
+	"primates": {
+		"category": "ambient",
+		"sounds": [
+			{
+				"name": "minecraft:ambient/primate/primate1",
+				"volume": 0.3
+			},
+			{
+				"name": "minecraft:ambient/primate/primate2",
+				"volume": 0.3
+			},
+			{
+				"name": "minecraft:ambient/primate/primate3",
+				"volume": 0.3
+			},
+			{
+				"name": "minecraft:ambient/primate/primate4",
+				"volume": 0.3
+			},
+			{
+				"name": "minecraft:ambient/primate/primate5",
+				"volume": 0.3
+			}
+		]
+	},
+	"waterfall.0": {
+		"category": "ambient",
+		"credits": [
+			"§aWaterfall Winspit Dorset.wav",
+			"genghis attenborough",
+			"Attribution Noncommercial"
+		],
+		"sounds": [
+			"minecraft:ambient/stream/waterfall0"
+		]
+	},
+	"waterfall.1": {
+		"category": "ambient",
+		"credits": [
+			"§aRunning-water-mountain-stream.mp3",
+			"Alexander",
+			"Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)"
+		],
+		"sounds": [
+			"minecraft:ambient/stream/waterfall1"
+		]
+	},
+	"waterfall.2": {
+		"category": "ambient",
+		"credits": [
+			"§aWaterfall",
+			"Orpheuz",
+			"Creative Commons 0"
+		],
+		"sounds": [
+			"minecraft:ambient/stream/waterfall2"
+		]
+	},
+	"waterfall.3": {
+		"category": "ambient",
+		"credits": [
+			"§aSmall Waterfall at the Mill",
+			"willstepp",
+			"Creative Commons 0"
+		],
+		"sounds": [
+			"minecraft:ambient/stream/waterfall3"
+		]
+	},
+	"waterfall.4": {
+		"category": "ambient",
+		"credits": [
+			"§a Waterfall, Large, A.wav",
+			"InspectorJ",
+			"Attribution"
+		],
+		"sounds": [
+			"minecraft:ambient/stream/waterfall4"
+		]
+	},
+	"waterfall.5": {
+		"category": "ambient",
+		"credits": [
+			"§aWaterfall, Small, B.wav",
+			"InspectorJ",
+			"Attribution"
+		],
+		"sounds": [
+			"minecraft:ambient/stream/waterfall5"
+		]
+	},
+	"village.rooster": {
+		"category": "ambient",
+		"credits": [
+			"§aVillage ambience rooster and light birds with wind .wav",
+			"Ramston",
+			"Creative Commons 0"
+		],
+		"sounds": [
+			"minecraft:ambient/village/rooster1",
+			"minecraft:ambient/village/rooster2",
+			"minecraft:ambient/village/rooster3"
+		]
+	},
+	"village.anvil": {
+		"category": "ambient",
+		"credits": [
+			"§aAnvil",
+			"MrAuralization",
+			"Attribution"
+		],
+		"sounds": [
+			{
+				"name": "minecraft:ambient/village/anvil1"
+			},
+			{
+				"name": "minecraft:ambient/village/anvil2"
+			}
+		]
+	},
+	"village.dogbark": {
+		"category": "ambient",
+		"credits": [
+			"§aDogs Barking",
+			"darranambler",
+			"Creative Commons 0"
+		],
+		"sounds": [
+			"minecraft:ambient/village/dogbark1",
+			"minecraft:ambient/village/dogbark2",
+			"minecraft:ambient/village/dogbark3",
+			"minecraft:ambient/village/dogbark4",
+			"minecraft:ambient/village/dogbark5",
+			"minecraft:ambient/village/dogbark6"
+		]
+	},
+	"dimension.nether": {
+		"category": "ds_biome",
+		"credits": [
+			"§aCreepy Dungeon Ambience",
+			"DrMinky",
+			"Attribution"
+		],
+		"sounds": [
+			{
+				"name": "minecraft:ambient/dimension/nether",
+				"volume": 0.3,
+				"stream": true
+			}
+		]
+	},
+	"blunt.equip": {
+		"category": "player",
+		"sounds": [
+			"minecraft:ambient/items/blunt_draw"
+		]
+	},
+	"blunt.swing": {
+		"category": "player",
+		"sounds": [
+			"minecraft:ambient/items/blunt_swing1",
+			"minecraft:ambient/items/blunt_swing2",
+			"minecraft:ambient/items/blunt_swing3",
+			"minecraft:ambient/items/blunt_swing4",
+			"minecraft:ambient/items/blunt_swing5"
+		]
+	},
+	"bow.equip": {
+		"category": "player",
+		"sounds": [
+			"minecraft:ambient/items/bow_draw"
+		]
+	},
+	"bow.pull": {
+		"category": "player",
+		"sounds": [
+			"minecraft:ambient/items/bow_pull1",
+			"minecraft:ambient/items/bow_pull2",
+			"minecraft:ambient/items/bow_pull3",
+			"minecraft:ambient/items/bow_pull4",
+			"minecraft:ambient/items/bow_pull5"
+		]
+	},
+	"bow.loose": {
+		"category": "player",
+		"sounds": [
+			"minecraft:ambient/items/bow_loose1",
+			"minecraft:ambient/items/bow_loose2",
+			"minecraft:ambient/items/bow_loose3",
+			"minecraft:ambient/items/bow_loose4"
+		]
+	},
+	"sword.equip": {
+		"category": "player",
+		"sounds": [
+			"minecraft:ambient/items/sword_draw"
+		]
+	},
+	"sword.swing": {
+		"category": "player",
+		"sounds": [
+			"minecraft:ambient/items/sword_swing1",
+			"minecraft:ambient/items/sword_swing2",
+			"minecraft:ambient/items/sword_swing3",
+			"minecraft:ambient/items/sword_swing4",
+			"minecraft:ambient/items/sword_swing5",
+			"minecraft:ambient/items/sword_swing6",
+			"minecraft:ambient/items/sword_swing7",
+			"minecraft:ambient/items/sword_swing8",
+			"minecraft:ambient/items/sword_swing9"
+		]
+	},
+	"tool.equip": {
+		"category": "player",
+		"sounds": [
+			"minecraft:ambient/items/tool_draw"
+		]
+	},
+	"tool.swing": {
+		"category": "player",
+		"sounds": [
+			"minecraft:ambient/items/swoosh1",
+			"minecraft:ambient/items/swoosh2",
+			"minecraft:ambient/items/swoosh3",
+			"minecraft:ambient/items/swoosh4",
+			"minecraft:ambient/items/swoosh5",
+			"minecraft:ambient/items/swoosh6",
+			"minecraft:ambient/items/swoosh7"
+		]
+	},
+	"utility.equip": {
+		"category": "player",
+		"sounds": [
+			"minecraft:ambient/items/utility_draw"
+		]
+	},
+	"shield.equip": {
+		"category": "player",
+		"sounds": [
+			"minecraft:ambient/items/tool_draw"
+		]
+	},
+	"shield.use": {
+		"category": "player",
+		"sounds": [
+			"minecraft:ambient/items/tool_draw"
+		]
+	},
+	"food.equip": {
+		"category": "player",
+		"sounds": [
+			"minecraft:ambient/items/utility_draw"
+		]
+	},
+	"potion.equip": {
+		"category": "player",
+		"sounds": [
+			"minecraft:ambient/items/potion_slosh1",
+			"minecraft:ambient/items/potion_slosh2",
+			"minecraft:ambient/items/potion_slosh3",
+			"minecraft:ambient/items/potion_slosh4"
+		]
+	},
+	"silence": {
+		"category": "ambient",
+		"sounds": [
+			"minecraft:ambient/silence"
+		]
+	},
+	"block.water.ambient": {
+		"replace": "true",
+		"sounds": [
+			"minecraft:ambient/stream/waterfall1",
+			"minecraft:ambient/stream/waterfall2",
+			"minecraft:ambient/stream/waterfall3",
+			"minecraft:ambient/stream/waterfall4",
+			"minecraft:ambient/stream/waterfall5"
+		]
+	}
 }
